@@ -1,4 +1,4 @@
-package org.example.BasicPrograms;
+package BasicPrograms;
 
 public class ReverseNumber {
     public static void main(String[] args) {

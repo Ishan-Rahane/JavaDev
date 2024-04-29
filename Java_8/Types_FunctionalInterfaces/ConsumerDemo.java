@@ -1,4 +1,4 @@
-package org.example.Types_FunctionalInterfaces;
+package Types_FunctionalInterfaces;
 
 import java.util.*;
 import java.util.function.Consumer;

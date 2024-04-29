@@ -1,4 +1,4 @@
-package org.example.Collection.List;
+package Collection.List;
 
 import java.util.Iterator;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package org.example.Strings;
+package Strings;
 
 import java.util.Comparator;
 import java.util.List;

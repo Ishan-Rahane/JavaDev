@@ -1,4 +1,4 @@
-package org.example.Lambda;
+package Lambda;
 
 public interface Vehicle_Without_Lambda {
 

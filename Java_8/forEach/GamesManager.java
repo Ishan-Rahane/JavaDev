@@ -1,4 +1,4 @@
-package org.example.forEach;
+package forEach;
 
 import java.util.ArrayList;
 import java.util.List;

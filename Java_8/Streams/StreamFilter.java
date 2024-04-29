@@ -1,4 +1,4 @@
-package org.example.Streams;
+package Streams;
 
 import java.util.stream.Collectors;
 import java.util.stream.Stream;

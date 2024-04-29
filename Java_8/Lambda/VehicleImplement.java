@@ -1,4 +1,4 @@
-package org.example.Lambda;
+package Lambda;
 
 //without lambda
 

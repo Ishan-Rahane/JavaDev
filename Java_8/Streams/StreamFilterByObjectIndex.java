@@ -1,4 +1,4 @@
-package org.example.Streams;
+package Streams;
 
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.IntStream;

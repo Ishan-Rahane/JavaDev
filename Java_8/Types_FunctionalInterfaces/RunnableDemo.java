@@ -1,4 +1,4 @@
-package org.example.Types_FunctionalInterfaces;
+package Types_FunctionalInterfaces;
 
 public class RunnableDemo {
     public static void main(String[] args) {

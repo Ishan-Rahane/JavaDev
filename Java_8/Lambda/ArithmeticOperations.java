@@ -1,4 +1,4 @@
-package org.example.Lambda;
+package Lambda;
 
 public interface ArithmeticOperations {
 //    void add(int a, int b);

@@ -1,4 +1,4 @@
-package org.example.Strings;
+package Strings;
 
 public class StringManipulation {
     public static void main(String[] args) {

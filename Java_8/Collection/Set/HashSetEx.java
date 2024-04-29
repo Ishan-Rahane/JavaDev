@@ -1,4 +1,4 @@
-package org.example.Collection.Set;
+package Collection.Set;
 
 import java.util.HashSet;
 import java.util.Iterator;

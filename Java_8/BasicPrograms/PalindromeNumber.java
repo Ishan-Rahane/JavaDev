@@ -1,4 +1,4 @@
-package org.example.BasicPrograms;
+package BasicPrograms;
 
 import java.util.Comparator;
 import java.util.Scanner;

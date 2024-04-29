@@ -1,4 +1,4 @@
-package org.example.StreamMethods;
+package StreamMethods;
 
 import java.util.*;
 import java.util.stream.Stream;

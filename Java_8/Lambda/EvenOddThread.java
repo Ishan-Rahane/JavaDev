@@ -1,4 +1,4 @@
-package org.example.Lambda;
+package Lambda;
 
 public class EvenOddThread {
     public static void main(String[] args) {

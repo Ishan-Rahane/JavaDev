@@ -1,4 +1,4 @@
-package org.example.Collection.Programs;
+package Collection.Programs;
 
 import java.util.ArrayList;
 import java.util.List;

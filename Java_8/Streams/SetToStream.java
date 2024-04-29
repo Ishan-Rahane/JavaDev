@@ -1,4 +1,4 @@
-package org.example.Streams;
+package Streams;
 
 import java.util.HashSet;
 import java.util.Set;
